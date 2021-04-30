@@ -21,6 +21,6 @@ Scenario:
 3. If the person is not a member:
  A) Enter details including first name, last name, national number, phone number and email. 
  B) Enter a password and pay the registration fee.
- C) If the registration is successful   a membership number will be specified the person. 
- D) After completing the registration, a person can request the book of his choice.
+ C) If the registration is successful   a membership number will be awarded the person. 
+ D) After completing the registration, person can request the book of his choice.
 
