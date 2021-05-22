@@ -20,14 +20,16 @@
 ## **Scenario:** 
 ### 1. The person enters the program.
 ### 2. If the person is a member of the library: 
--  A) Enter the membership number and password.
--  B) Reserves the book if it's available.
+-  A) The person enter the membership number and password.
+-  B) A list of books is displayed for the person and Reserves the book if it's available.
 -  C) The message "Please refer to the library to receive the book" is displayed. 
 ### 3. If the person is not a member:
--  A) Enter details including first name, last name, national number, phone number and email. 
--  B) Enter a password and pay the registration fee.
+-  A) A page opens for the person and the person if they wanted to join , Enter details including first name, last name, national number, phone number and email. 
+-  B) The person enter a password and pay the registration fee.
 -  C) If the registration is successful   a membership number will be awarded the person. 
--  D) After completing the registration, person can request the book of his choice.
+-  D) D) After completing the registration, the person can go to the library to pay the registration fee.
+-  E) A person can apply for a library membership card
+-  F) After all possible steps, he can register his book reservation request in the program
     
 
                                                                                                                          
