@@ -36,6 +36,11 @@ This program makes it easy for the user to find the desired book.
 
 ### Project documentation:
 
+[UseCase Diagrams](https://github.com/hossein-se/my-project/tree/main/documentation/Usecase)
+[Activity Diagrams](https://github.com/hossein-se/my-project/tree/main/documentation/Activity)
+
+
+
 
 ### Developers
 
