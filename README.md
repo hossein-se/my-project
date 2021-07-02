@@ -10,9 +10,17 @@ This program makes it easy for the user to find the desired book.
 
 ### Project requirements:
 #### Functional requirements:
-- Requirement 
-- Requirement 
-- Requirement 
+-  1). Information about the current situation or the non-existence of books
+-  2). Information on books set by members
+-  3). Ability to search for books by name or author
+-  4). The library in the system is accurate
+-  5). Calculate and inform the remaining deadline book delivery for members
+-  6). Ability to register new members in the system
+-  7). Build a membership card for new registrations
+-  8). Permit from the loan after the expiration of the membership card
+-  9). It is possible to renew the membership for former members
+-  10). Reading competitions
+-  11). Ability to add new books and donation books to inventory
 
 #### Non-Functional Requirements:
 - Requirement 
