@@ -23,9 +23,16 @@ This program makes it easy for the user to find the desired book.
 -  11). Ability to add new books and donation books to inventory
 
 #### Non-Functional Requirements:
-- Requirement 
-- Requirement 
-- Requirement 
+#### 1). operational
+- The system is Desktop-based
+- The membership number is the national code by default
+#### 2). Cultural
+- The system is in English
+- Existence of solar date in the header of all pages
+#### 3). Performance
+-  Book search speed and book booking speed should be high
+#### 4). Security
+- Back up the information of all users and books every month
 
 ### Project documentation:
 
