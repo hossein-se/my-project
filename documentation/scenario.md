@@ -21,7 +21,7 @@
 - الف). روز آخر مهلت تحویل کتابهای رزرو شده پیامی جهت تحویل کتابها به اعضا ارسال میشود
 - ب). با اتمام مهلت تعیین شده به ازای هر روز مبلغی به عنوان جریمه به شخص تحمیل میشود
 - ج). دیگر شخص تا پرداخت هزینه جریمه نمیتواند کتابی را رزرو کند و یا تاریخ عضویتش را تمدید کند
-### 4.  برگزاری مسابقه:
+### 5.  برگزاری مسابقه:
 - الف). زمان شروع مسابفات پیامی به کل اعضا حهت شرکت در مسابقه ارسال میشود
 - ب). شخص شرکت کننده در مسابقه باید شرایط مسابقه را قبول کند و هزینه مسابقه را پرداخت کند
 - ج). پس از اتمام مسابقه به سه نفر برتر جوایزی تعلق میگیرد 
@@ -30,18 +30,29 @@
  
 
 ## **Scenario:** 
-### 1. The person enters the program.
-### 2. If the person is a member of the library: 
--  A) The person enter the membership number and password.
--  B) A list of books is displayed for the person and Reserves the book if it's available.
--  C) The message "Please refer to the library to receive the book" is displayed. 
-### 3. If the person is not a member:
--  A) A page opens for the person and the person if they wanted to join , Enter details including first name, last name, national number, phone number and email. 
--  B) The person enter a password and pay the registration fee.
--  C) If the registration is successful   a membership number will be awarded the person. 
--  D) D) After completing the registration, the person can go to the library to pay the registration fee.
--  E) A person can apply for a library membership card
--  F) After all possible steps, he can register his book reservation request in the program
+### 1. The person enters the program
+### 2.: If the person was a member of the library
+ - a). The person enters their membership number and password
+ - b). A list of available books for the person is displayed
+ - c). If the person has not been fined or his / her membership date has not expired, he / she can book the desired book
+ - d). If the book has not been booked in advance, a message will be sent to the person to receive the book
+ - e) If the person has been fined, the amount of the fine is displayed and he must go to the library to pay the person.
+ - f). At the end of the membership date, the person must go to the library to pay for the renewal
+### 3.: If the person was not a member of the library
+- a). A page opens for the person and if the person wants to join, he / she enters his / her details including name, surname, national number, phone number and email.
+- b). The person enters a password
+- c). If the registration is successful, a membership number will be assigned to the person
+- d). After completing the registration, the person can go to the library to pay the registration fee
+- e). One can go to the library to get a membership card
+- f). After all the steps, the person can register his book request in the program
+### 4. Penalty:
+- a). On the last day of the booking deadline, a message will be sent to the members to deliver the books
+- b). At the end of the deadline, a fine will be imposed on the person for each day
+- c). The other person can not book a book or renew his / her membership date until the fine is paid
+### 5. Holding a contest:
+- a). At the start of the competition, a message will be sent to all members to participate in the competition
+- b). The contestant must accept the terms of the contest and pay for the contest
+- c). Prizes will be awarded to the top three after the competition
     
 
                                                                                                                          
