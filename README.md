@@ -40,7 +40,7 @@ This program makes it easy for the user to find the desired book.
 - [Activity Diagrams](https://github.com/hossein-se/my-project/tree/main/documentation/Activity)
 - [Class Diagram](https://github.com/hossein-se/my-project/tree/main/documentation/Class%20diagram)
 - [Crc Cards](https://github.com/hossein-se/my-project/tree/main/documentation/Crc%20cards)
-- [Sequence Diagrams](https://github.com/hossein-se/my-project/tree/main/documentation/sequence)
+- [Sequence   Diagrams](https://github.com/hossein-se/my-project/tree/main/documentation/sequence)
 - [communication](https://github.com/hossein-se/my-project/tree/main/documentation/communication)
 - [State Machines](https://github.com/hossein-se/my-project/tree/main/documentation/State%20machines)
 
