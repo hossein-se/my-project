@@ -14,7 +14,7 @@ import javax.swing.JTextArea;
 
 public class Search_Books extends javax.swing.JFrame {
 
-
+ 
     public Search_Books() {
         initComponents();
         
@@ -32,7 +32,7 @@ public class Search_Books extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Tahoma", 0, 18)); 
         jLabel1.setText("SEARCH BOOK");
         jLabel1.setPreferredSize(new java.awt.Dimension(107, 22));
 
@@ -102,16 +102,15 @@ public class Search_Books extends javax.swing.JFrame {
         pack();
     }
 
-    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {
         String name1 = B_Name.getText();
         Display_Books(name1);
     }
 
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
         new Members_Login_Success().setVisible(true);
         this.setVisible(false);
     }
-
     public void Display_Books(String name){
         try{
             int j=0,k=0,z=0;
@@ -153,9 +152,9 @@ public class Search_Books extends javax.swing.JFrame {
             e.printStackTrace();
         }
     }
- 
-    public static void main(String args[]) {
 
+    public static void main(String args[]) {
+ 
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
                 if ("Nimbus".equals(info.getName())) {
