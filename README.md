@@ -1,4 +1,4 @@
-###  Borrow Books From The Library Application
+###  Library Management System Application
 This software is a desktop-based software and is designed and developed in a responsive way.
 By subscribing to the program, users can search for the book they want and borrow it if it is in the library.
 This program makes it easy for the user to find the desired book.
