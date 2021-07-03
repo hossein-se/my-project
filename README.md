@@ -50,8 +50,8 @@ This program makes it easy for the user to find the desired book.
 ### Developers
 
 #### Project code: **G33**
-Name  | Id   | Role
-----  | --   | ----
+Name  | Id   | 
+----  | --   |
 Hossein Seyedghasemi | [hossein-se](https://github.com/hossein-se) |
 Mohammad Abedini | [mohammad1997plg](https://github.com/mohammad1997plg) |
 Seyed Hamidreza Moosavi | [Hamidreza-14](https://github.com/Hamidreza-14) |
